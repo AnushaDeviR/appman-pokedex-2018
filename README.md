@@ -2,12 +2,12 @@
 
 This project is developed using:
 
-Reactjs: `npx create-react-app` 
-Styled Components: `npm styled-components`
+React JS: `npx create-react-app` <br>
+Styled Components: `npm styled-components` <br> 
+CSS <br> 
 
 The developed AppMan Pokedex allows you to add your favourite card by clicking the openModel button and by selecting your cards. For easier access, the card could be searched by its name and type.
 
-![Pokédex Snippet](./snippetPokeDex.mp4)
 ----
 
 We want you to build a web application with the following requirements:
