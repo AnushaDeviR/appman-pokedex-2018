@@ -1,0 +1,16 @@
+/* colors */
+:root {
+    --cardBoxShadow: #d5d6dc; 
+    --cardBoxShadowHover: #aeaeae; 
+    --cardBackground: #f3f4f7;
+    --colorButton: #dc7777; 
+    --levelTubeBackground: #e4e4e4; 
+    --levelTubeValueBackground: #f3701a; 
+    --bottomBarBackground: #ec5656; 
+    --bottomBarTextColor: #ffff;
+    --modalOutside: #000000; 
+    --modalContentBoxShadow: #474444; 
+    --modalContentBackground: #ffff; 
+    --searchBoxBorder: #e6e6e6;
+}
+

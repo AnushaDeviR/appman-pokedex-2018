@@ -1,0 +1,22 @@
+@import url("../style/palette.css");
+
+.flex {
+  display: flex;
+}
+
+.pokemon-card {
+  position: relative;
+  background-color: #f3f4f7;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 50px 10px 10px 10px;
+  width: 100%;
+  max-width: 900px;
+}
+
+.cardImg {
+  height: 250px;
+  width: 200px;
+  border: 2px solid red;
+}

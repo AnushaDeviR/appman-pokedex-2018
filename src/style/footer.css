@@ -1,0 +1,18 @@
+.bottomBar { 
+    width: 1022px; 
+    height: 70px;
+    bottom: 53px;
+    display: block;
+    position: sticky;
+    background-color: #ec5656;
+    text-align: center;
+    
+}
+
+.addCards { 
+    font-size: 4rem;
+    background-color: white;
+    border-radius: 100px ;
+    color: #ec5656;
+    cursor: pointer;
+}
